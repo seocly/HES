@@ -20,7 +20,7 @@ const SITE_CONFIG = {
         tiktok: "https://www.tiktok.com/@d.lhack",
         youtube: "https://www.youtube.com/@OX3DY",
         discord: "https://discord.gg/QSkbQZM6fj",
-        telegram: "https://t.me/e0xss"
+        instagram: "https://www.instagram.com/0xedy"
     },
     
     // Configuration audio
